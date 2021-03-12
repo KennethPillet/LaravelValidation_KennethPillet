@@ -6,11 +6,9 @@
 @endsection
 
 @section('content')
-    <section>
         <div class="card">
             <h1>Détail du déssinateur</h1>
-            <div class="table-responsive">
-                <table>
+                <table class="table-responsive">
                     <thead>
                         <tr>
                             <th scope="col">#</th>
@@ -28,7 +26,6 @@
                         </tr>
                     </tbody>
                 </table>
-            </div>
         </div>
 @endsection {{-- pour ecrire du html proprement entre la "section" --}}
 

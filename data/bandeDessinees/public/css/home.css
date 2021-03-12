@@ -1,0 +1,17 @@
+main{
+    background-color:#FEFFF9;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+    padding: 2%;
+}
+.intro{
+    text-align: center;
+    padding: 2%;
+}
+.table{
+    padding: 1%;
+    width: 80%;
+    margin: auto;
+}

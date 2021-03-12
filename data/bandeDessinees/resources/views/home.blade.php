@@ -11,7 +11,7 @@
         <p>Ceci un site codé en formation It Akademy afin de validé une base avec le framework PHP Laravel</p> <br>
         <p>Nous allons présenter quelques personnages, avec des détails</p> <br>
     </div>
-    <div>
+    <div class="table">
         <table class="table table-dark">
             <thead>
                 <tr>
