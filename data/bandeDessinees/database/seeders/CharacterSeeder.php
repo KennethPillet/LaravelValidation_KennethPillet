@@ -40,6 +40,13 @@ class CharacterSeeder extends Seeder
                 'apparition_name' => 'Les Aventures de Tintin, Le Crabe aux pinces d\'or',
                 'drawer_id' => 2
             ],
+            [   
+                'name' => 'Rantanplan',
+                'creation_year' => 1962,
+                'apparition_name' => 'Lucky Luke, Sur la piste des Dalton',
+                'drawer_id' => 1
+            ],
+
         ]);
     }
 }
