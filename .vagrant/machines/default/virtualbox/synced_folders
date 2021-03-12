@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/Users/kennethpillet/Dev_Web/ItAkademy/DWM2020-2021/LaravelValidation_KennethPillet/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/kennethpillet/Dev_Web/ItAkademy/DWM2020-2021/LaravelValidation_KennethPillet","disabled":false,"__vagrantfile":true}}}
