@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class DrawersTable extends Migration
+class CreateDrawersTable extends Migration
 {
     /**
      * Run the migrations.
@@ -29,6 +29,6 @@ class DrawersTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('authors');
+        Schema::dropIfExists('drawers');
     }
 }

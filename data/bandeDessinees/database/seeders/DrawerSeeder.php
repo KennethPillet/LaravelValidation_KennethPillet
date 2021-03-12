@@ -14,18 +14,26 @@ class DrawerSeeder extends Seeder
      */
     public function run()
     {
-        DB::table('authors')->insert([
+        DB::table('drawers')->insert([
             [
                 'name' => 'René Goscinny',
+                'birth_year' => 1926,
+                'nationality' => 'Francais',
             ],
             [
                 'name' => 'Hergé',
+                'birth_year' => 1907,
+                'nationality' => 'Belge',
             ],
             [
                 'name' => 'Edgar P. Jacobs',
+                'birth_year' => 1904,
+                'nationality' => 'Belge',
             ],
             [
                 'name' => 'Kenneth',
+                'birth_year' => 1994,
+                'nationality' => 'Francais',
             ]
         ]);
     }
